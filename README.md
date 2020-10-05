@@ -10,7 +10,9 @@
 </p>
 
 
-| Domain          | Subdomain             | Challenge                               | Level |
+<center>
+
+| Domain          | Subdomain             | Problem                               | Level |
 | :-------------- | :-------------------- |:--------------------------------------- |:-----:|
 | Algorithms      | Warmup                | [Solve Me First](https://github.com/jiaguo1000/Hackerrank-Problem-Solving/blob/main/Algorithms/solve-me-first.py)                    | Easy  |
 | Algorithms      | Implementation        | [Sales by Match](https://github.com/jiaguo1000/Hackerrank-Problem-Solving/blob/main/Algorithms/sales-by-match.py)                    | Easy  |
@@ -19,3 +21,5 @@
 | Algorithms      | Implementation        | [Repeated String](https://github.com/jiaguo1000/Hackerrank-Problem-Solving/blob/main/Algorithms/repeated-string.py)                  | Easy  |
 | Data Structures | Arrays                | [Arrays - DS](https://github.com/jiaguo1000/Hackerrank-Problem-Solving/blob/main/Data-Structures/arrays-DS.py)                       | Easy  |
 | Data Structures | Arrays                | [2D Array - DS](https://github.com/jiaguo1000/Hackerrank-Problem-Solving/blob/main/Data-Structures/2D-array-DS.py)                   | Easy  |
+
+</center>
