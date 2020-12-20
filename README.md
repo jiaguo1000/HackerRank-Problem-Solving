@@ -20,11 +20,17 @@
 | 424   | [Longest Repeating Character Replacement](https://github.com/jiaguo1000/LeetCode-HackerRank/blob/main/LeetCode/longest-repeating-character-replacement.py)               | <img src="https://img.shields.io/badge/-Medium-yellow">    |
 
 
+<p align="center">
+<br>
+<br>
+<br>
+</p>
+
 
 # HackerRank Problem Solving
 <div style='float: center; text-align: center; margin-bottom: 20px' align="center">
   <a href='https://www.hackerrank.com/guojia1993' target="_blank">
-  <img width="250px" src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" />
+  <img width="250px" src="HackerRank/icon.png" />
   </a>
 </div>
 
