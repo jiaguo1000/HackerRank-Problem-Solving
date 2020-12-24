@@ -12,12 +12,15 @@
 
 | #          | Problem                                 | Level |
 | :-------------- |:--------------------------------------- |:-----:|
-| 1     | [Two Sum](https://github.com/jiaguo1000/LeetCode-HackerRank/blob/main/LeetCode/two-sum.py)                                                                               | <img src="https://img.shields.io/badge/-Easy-brightgreen"> |
-| 2     | [Add Two Numbers](https://github.com/jiaguo1000/LeetCode-HackerRank/blob/main/LeetCode/add-two-numbers.py)                                                               | <img src="https://img.shields.io/badge/-Medium-yellow">    |
-| 3     | [Longest Substring Without Repeating Characters](https://github.com/jiaguo1000/LeetCode-HackerRank/blob/main/LeetCode/longest-substring-without-repeating-characters.py) | <img src="https://img.shields.io/badge/-Medium-yellow">    |
-| 4     | [Median of Two Sorted Arrays](https://github.com/jiaguo1000/LeetCode-HackerRank/blob/main/LeetCode/median-of-two-sorted-arrays.py)                                       | <img src="https://img.shields.io/badge/-Hard-red">         |
-| 5     | [Longest Palindromic Substring](https://github.com/jiaguo1000/LeetCode-HackerRank/blob/main/LeetCode/longest-palindromic-substring.py)                                   | <img src="https://img.shields.io/badge/-Medium-yellow">    |
-| 424   | [Longest Repeating Character Replacement](https://github.com/jiaguo1000/LeetCode-HackerRank/blob/main/LeetCode/longest-repeating-character-replacement.py)               | <img src="https://img.shields.io/badge/-Medium-yellow">    |
+| 1     | [Two Sum](https://github.com/jiaguo1000/LeetCode-HackerRank/blob/main/LeetCode/Solutions/two-sum.py)                                                                               | <img src="https://img.shields.io/badge/-Easy-brightgreen"> |
+| 2     | [Add Two Numbers](https://github.com/jiaguo1000/LeetCode-HackerRank/blob/main/LeetCode/Solutions/add-two-numbers.py)                                                               | <img src="https://img.shields.io/badge/-Medium-yellow">    |
+| 3     | [Longest Substring Without Repeating Characters](https://github.com/jiaguo1000/LeetCode-HackerRank/blob/main/LeetCode/Solutions/longest-substring-without-repeating-characters.py) | <img src="https://img.shields.io/badge/-Medium-yellow">    |
+| 4     | [Median of Two Sorted Arrays](https://github.com/jiaguo1000/LeetCode-HackerRank/blob/main/LeetCode/Solutions/median-of-two-sorted-arrays.py)                                       | <img src="https://img.shields.io/badge/-Hard-red">         |
+| 5     | [Longest Palindromic Substring](https://github.com/jiaguo1000/LeetCode-HackerRank/blob/main/LeetCode/Solutions/longest-palindromic-substring.py)                                   | <img src="https://img.shields.io/badge/-Medium-yellow">    |
+| 10    | [Regular Expression Matching](https://github.com/jiaguo1000/LeetCode-HackerRank/blob/main/LeetCode/Solutions/regular-expression-matching.py)                                       | <img src="https://img.shields.io/badge/-Hard-red">         |
+| 322   | [Coin Change](https://github.com/jiaguo1000/LeetCode-HackerRank/blob/main/LeetCode/Solutions/coin-change.py)                                                                       | <img src="https://img.shields.io/badge/-Medium-yellow">    |
+| 424   | [Longest Repeating Character Replacement](https://github.com/jiaguo1000/LeetCode-HackerRank/blob/main/LeetCode/Solutions/longest-repeating-character-replacement.py)               | <img src="https://img.shields.io/badge/-Medium-yellow">    |
+| 509   | [Fibonacci Number](https://github.com/jiaguo1000/LeetCode-HackerRank/blob/main/LeetCode/Solutions/fibonacci-number.py)                                                             | <img src="https://img.shields.io/badge/-Easy-brightgreen"> |
 
 
 <p align="center">
