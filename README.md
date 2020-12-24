@@ -1,6 +1,6 @@
 # LeetCode Problem Solving
 <div style='float: center; text-align: center; margin-bottom: 20px' align="center">
-  <a href='https://leetcode.com/gg1993118' target="_blank">
+  <a href='https://leetcode.com/jiaguo1000' target="_blank">
   <img width="250px" src="LeetCode/icon.png" />
   </a>
 </div>
